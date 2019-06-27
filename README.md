@@ -6,4 +6,4 @@ A mobile responsive portfolio website using media queries.
 
 https://j22shelton.github.io/media_queries/
 
-![](/assets/images/landingpage.png?raw=true)
+![](/images/landingpage.png?raw=true)
