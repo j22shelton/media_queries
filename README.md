@@ -1,6 +1,6 @@
 # media_queries
 
-A simple, responsive portfolio website.
+A mobile responsive portfolio website using media queries.
 
 ## Deployed Link:
 
